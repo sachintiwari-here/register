@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "sachintiwari-here"
+        "username": "sachintiwari-here",
+        "email": "sachintiwarionly@gmail.com"
     },
-    "record": {
+    "records": {
         "CNAME": "sachintiwari-here.github.io"
     }
 }
